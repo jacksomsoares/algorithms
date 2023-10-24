@@ -21,3 +21,4 @@ pub mod dfs_graph_list;
 pub mod dijkstra_list;
 #[allow(non_snake_case)]
 pub mod LRU;
+pub mod math_expression_parser;
