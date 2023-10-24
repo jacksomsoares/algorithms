@@ -3,6 +3,7 @@ References:
  - https://lukaszwrobel.pl/blog/math-parser-part-1-introduction/
  - https://itnext.io/writing-a-mathematical-expression-parser-35b0b78f869e
  - https://www.youtube.com/watch?v=88lmIMHhYNs
+ - https://youtu.be/4m7ubrdbWQU?si=aou9r58PCiDH4v-5
  - https://mathworld.wolfram.com/Precedence.html
  - https://craftinginterpreters.com/parsing-expressions.html
  - https://en.wikipedia.org/wiki/Shunting_yard_algorithm
